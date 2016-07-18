@@ -2,8 +2,8 @@
 Quick setup for your local ui development
 
 ### Requirements
-Make sure you have bower installed, if not go here to [learn more](https://bower.io/#install-bower) **or** just enter the following command in your terminal.
-`npm install -g bower`
+* Bower - [learn more](https://bower.io/#install-bower)
+  * Install by running `npm install -g bower`
 
 ### Instructions
 ----
