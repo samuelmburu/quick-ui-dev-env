@@ -14,7 +14,7 @@
 
     "build:all": "npm run build:scss",
 
-    "watch:scss": "onchange '*.css' -- npm run build:scss",
+    "watch:scss": "onchange 'scss/*.scss' -- npm run build:scss",
 
     "watch:all": "parallelshell 'npm run serve' 'npm run watch:scss'",
 
