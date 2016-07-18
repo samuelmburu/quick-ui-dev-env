@@ -1,0 +1,39 @@
+{
+  "name": "charting-v2",
+  "description": "Chart testing",
+  "main": "index.html",
+  "authors": [
+    "samuel mburu"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "charts",
+    "highcharts",
+    "d3",
+    "word-cloud",
+    "woo!!"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3-cloud": "^1.2.1",
+    "highcharts-export-csv": "*",
+    "angular": "^1.5.7",
+    "d3": "^4.1.1",
+    "highcharts-regression": "*",
+    "highcharts-indicators": "^2.1.0",
+    "highcharts": "^4.2.5",
+    "jquery-1.11.1": "^3.1.0",
+    "requirejs": "^2.2.0",
+    "ng-highcharts": "*",
+    "jquery": "^3.1.0",
+    "underscore": "^1.8.3"
+  }
+}
