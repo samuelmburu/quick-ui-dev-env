@@ -16,9 +16,8 @@
 
     "watch:scss": "onchange 'scss/*.scss' -- npm run build:scss",
 
-    "watch:all": "parallelshell 'npm run serve' 'npm run watch:scss'",
+    "watch:all": "parallelshell 'npm run serve' 'npm run watch:scss'"
 
-    "prewatch:all" : "npm run build:scss"
   },
   "keywords": [
     "charts",

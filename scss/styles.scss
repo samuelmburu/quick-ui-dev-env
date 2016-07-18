@@ -1,0 +1,9 @@
+body {
+    height: 100%;
+}
+
+body::after {
+    content: 'this is the end of the body';
+    display: block;
+   background: red; 
+}
